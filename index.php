@@ -1,7 +1,7 @@
 <?
 $root = 'http://cssselector.com/';
 $root = 'http://cssselector-com.dev/public/';
-$hash = '776be77';
+$hash = '245a9c1a';
 ?>
 <!doctype html>
 <html>
@@ -31,10 +31,7 @@ $hash = '776be77';
                         <a class="pull-left" href="https://itunes.apple.com/us/app/css-selector/id934600297?ls=1&amp;mt=12" target="_blank">
                             <img src="<?=$root?>assets/img/mac-app-store-badge.png?v=<?=$hash?>" alt="Download on the Mac App Store">
                         </a>
-                        <a class="btn-demo center-block pull-right" href="<?=$root?>CSS-Selector-Demo.app.zip">
-                            <i class="fa fa-cloud-download"></i>
-                            Try Demo
-                        </a>
+                        <a class="btn-demo center-block pull-right icon-download-cloud" href="<?=$root?>CSS-Selector-Demo.app.zip">Try Demo</a>
                     </div>
                 </div>
                 <div class="col-lg-12">
@@ -113,10 +110,7 @@ $hash = '776be77';
                             <a class="pull-left" href="https://itunes.apple.com/us/app/css-selector/id934600297?ls=1&amp;mt=12" target="_blank">
                                 <img src="<?=$root?>assets/img/mac-app-store-badge.png" alt="Download on the Mac App Store">
                             </a>
-                            <a class="btn-demo center-block pull-right" href="<?=$root?>CSS-Selector-Demo.app.zip">
-                                <i class="fa fa-cloud-download"></i>
-                                Try Demo
-                            </a>
+                            <a class="btn-demo center-block pull-right icon-download-cloud" href="<?=$root?>CSS-Selector-Demo.app.zip">Try Demo</a>
                         </div>
                         <p><?=date('Y', time())?> &copy; <a href="http://jurajhilje.com" target="_blank">Juraj Hilje</a>. All rights reserved.</p>
                     </div>
