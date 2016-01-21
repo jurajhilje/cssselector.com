@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+Options -Indexes
+
+RewriteCond %{HTTP_HOST} ^www.cssselector\.com 
+RewriteRule ^(.*) http://cssselector.com/$1 [R=301,L]
