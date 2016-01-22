@@ -1,6 +1,7 @@
 <?
 $root = 'http://cssselector.com/';
-$hash = '9f89ccd';
+// $root = 'http://cssselector-com.dev/public/';
+$hash = 'e0ea334';
 ?>
 <!doctype html>
 <html>
