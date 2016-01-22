@@ -15,6 +15,7 @@ $hash = '9f89ccd';
         <meta property="article:author" content="Juraj Hilje">
         <meta property="og:image" content="<?=$root?>assets/img/css-selector-intro.png?v=<?=$hash?>">
         <title>CSS Selector for Mac - Generate CSS selectors from HTML</title>
+        <link rel="icon" type="image/png" href="<?=$root?>assets/img/favicon.png">
         <link rel="stylesheet" href="<?=$root?>css/style.css?v=<?=$hash?>">
         <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-45983209-2', 'auto');ga('send', 'pageview');</script>
     </head>
