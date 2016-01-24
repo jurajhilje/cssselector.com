@@ -1,5 +1,6 @@
 <?
-$root = 'http://cssselector.com/';
+$root = '/';
+// $root = 'http://cssselector.com/';
 // $root = 'http://cssselector-com.dev/public/';
 $hash = 'e0ea334';
 ?>
